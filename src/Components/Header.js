@@ -18,6 +18,7 @@ const Header = () => {
         <li className="nav-item">
           <Link className="nav-link active" aria-current="page" to="/home">Home</Link>
         </li>
+        {/* update by master */}
         <li className="nav-item">
           <Link className="nav-link" to="/link">Link</Link>
         </li>
